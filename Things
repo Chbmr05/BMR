@@ -1,3 +1,10 @@
-{ "rice bag : 1200
-   cake pieces : 35
-   chocolates : 75 "}
+{
+  "items": [
+    {"name": "Milk", "quantity": 2, "price": 25},
+    {"name": "Bread", "quantity": 1, "price": 40}
+.
+.
+.
+  ]
+}
+
